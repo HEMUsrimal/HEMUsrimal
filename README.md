@@ -7,7 +7,7 @@
 </div>
 <br>
 <a href="mailto:udayangasrimaluni2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<a href="[https://www.linkedin.com/in/mithula-chanthuka-445b0527a/](https://www.linkedin.com/in/udayanga-srimal-6418a0293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
+<a href="https://www.linkedin.com/in/udayanga-srimal-6418a0293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <br>
 
 # 🔧 Technologies & Tools
