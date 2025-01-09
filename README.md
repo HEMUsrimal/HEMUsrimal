@@ -84,10 +84,10 @@
 
 # 📈 Stats 
 
-![](https://komarev.com/ghpvc/?username=mithula-cbw)
+![](https://komarev.com/ghpvc/?username=udaynga-cbw)
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=mithula-cbw&theme=vue-dark&show_icons=true&hide_border=true&hide_rank=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=HEMU Srimal-cbw&theme=vue-dark&show_icons=true&hide_border=true&hide_rank=true&count_private=true"
 />
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=mithula-cbw&theme=vue-dark&hide_border=true"
@@ -96,6 +96,6 @@
 
 
 <!---
-Mithula-cbw/Mithula-cbw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+udayanga-cbw/Mithula-cbw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
