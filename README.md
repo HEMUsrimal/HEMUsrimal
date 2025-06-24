@@ -13,7 +13,7 @@
 - 💻 I'm a passionate undergraduate studying Software Engineering  
 - 🚀 I love building full-stack projects & learning modern DevOps tools  
 - 🌱 Currently learning DevOps, AWS & Cloud Technologies  
-- 🎯 My goal is to become a DevOps Engineer at a global tech company  
+- 🎯 My goal is to become a IOT, Embeded system with ML Engineer at a global tech company  
 - ⚡ Fun fact: I love automating things & contributing to open-source  
 
 ---
@@ -47,3 +47,9 @@
 🌱 **Currently learning**:  
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"> 
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Python%20ML-%233776AB.svg?style=flat&logo=python&logoColor=white" alt="Python ML"> 
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=tensorflow&logoColor=white" alt="TensorFlow">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat&logo=pytorch&logoColor=white" alt="PyTorch">
+  <img src="https://img.shields.io/badge/Embedded%20Systems-%23005571.svg?style=flat&logo=arduino&logoColor=white" alt="Embedded Systems">
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
+  <img src="https://img.shields.io/badge/C++%20IoT-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++ IoT">
