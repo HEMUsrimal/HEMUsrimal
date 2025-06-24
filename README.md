@@ -1,11 +1,13 @@
 # 👋 Hey there
-<strong>I am Udayanga,</strong>
+**I am Udayanga Srimal,**  
 <div align="justify">
   an aspiring Web Developer with a deep love for web technologies. 
   I continuously expand my skills to craft exceptional digital experiences, exploring cutting-edge innovations to tackle real-world challenges creatively and efficiently. 
   My commitment to staying at the forefront of technology drives my journey as a developer.
 </div>
 <br>
+
+📫 Reach me at:  
 <a href="mailto:udayangasrimaluni2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
 <a href="https://www.linkedin.com/in/udayanga-srimal-6418a0293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
 <br>
@@ -73,29 +75,22 @@
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
         width="48"
         height="48"
-        alt="Command Line"
+        alt="Bash"
       />
-      <br /><strong>Command Line</strong>
+      <br /><strong>Bash</strong>
     </td>
   </tr>
 </table>
 
 <br>
 
-# 📈 Stats 
+# 📈 GitHub Stats 
 
-![](https://komarev.com/ghpvc/?username=udaynga-cbw)
+![](https://komarev.com/ghpvc/?username=udayanga-cbw)
 
 <img
-  src="https://github-readme-stats.vercel.app/api?username=HEMU Srimal-cbw&theme=vue-dark&show_icons=true&hide_border=true&hide_rank=true&count_private=true"
+  src="https://github-readme-stats.vercel.app/api?username=udayanga-cbw&theme=vue-dark&show_icons=true&hide_border=true&hide_rank=true&count_private=true"
 />
 <img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=mithula-cbw&theme=vue-dark&hide_border=true"
+  src="https://github-readme-streak-stats.herokuapp.com/?user=udayanga-cbw&theme=vue-dark&hide_border=true"
 />
-
-
-
-<!---
-udayanga-cbw/Mithula-cbw is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
