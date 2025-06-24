@@ -4,93 +4,46 @@
   an aspiring Web Developer with a deep love for web technologies. 
   I continuously expand my skills to craft exceptional digital experiences, exploring cutting-edge innovations to tackle real-world challenges creatively and efficiently. 
   My commitment to staying at the forefront of technology drives my journey as a developer.
+  
 </div>
-<br>
+<div>
+  
+</div>
 
-📫 Reach me at:  
-<a href="mailto:udayangasrimaluni2002@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25></a>
-<a href="https://www.linkedin.com/in/udayanga-srimal-6418a0293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a>
-<br>
+- 💻 I'm a passionate undergraduate studying Software Engineering  
+- 🚀 I love building full-stack projects & learning modern DevOps tools  
+- 🌱 Currently learning DevOps, AWS & Cloud Technologies  
+- 🎯 My goal is to become a DevOps Engineer at a global tech company  
+- ⚡ Fun fact: I love automating things & contributing to open-source  
 
-# 🔧 Technologies & Tools
+---
 
-<table>
-  <tr>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-        width="48"
-        height="48"
-        alt="HTML5"
-      />
-      <br /><strong>HTML</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-        width="48"
-        height="48"
-        alt="CSS3"
-      />
-      <br /><strong>CSS</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-        width="48"
-        height="48"
-        alt="JavaScript"
-      />
-      <br /><strong>JavaScript</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-        width="48"
-        height="48"
-        alt="Git"
-      />
-      <br /><strong>Git</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"
-        width="48"
-        height="48"
-        alt="PHP"
-      />
-      <br /><strong>PHP</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-        width="48"
-        height="48"
-        alt="Linux"
-      />
-      <br /><strong>Linux</strong>
-    </td>
-    <td align="center" height="108" width="108">
-      <img
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg"
-        width="48"
-        height="48"
-        alt="Bash"
-      />
-      <br /><strong>Bash</strong>
-    </td>
-  </tr>
-</table>
+## 🛠️ Languages & Tools
 
-<br>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,nodejs,react,aws,docker,kubernetes,git,github,linux,bash,vscode&perline=7" />
+</p>
 
-# 📈 GitHub Stats 
+---
 
-![](https://komarev.com/ghpvc/?username=udayanga-cbw)
+## 📊 GitHub Stats
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=udayanga-cbw&theme=vue-dark&show_icons=true&hide_border=true&hide_rank=true&count_private=true"
-/>
-<img
-  src="https://github-readme-streak-stats.herokuapp.com/?user=udayanga-cbw&theme=vue-dark&hide_border=true"
-/>
+| <a href="https://github.com/HEMUsrimal"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HEMUsrimal&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Your GitHub stats" /></a> | <a href="https://github.com/HEMUsrimal"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEMUsrimal&layout=compact&theme=vue-dark&hide_border=true" /></a> |
+| ------------- | ------------- |
+
+### ⏳ GitHub Activity Snake
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HEMUsrimal&theme=react-dark&hide_border=true&area=true)
+
+---
+
+### 🏆 GitHub Achievements
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=HEMUsrimal&theme=onedark&no-frame=true&margin-w=15)
+
+---
+
+### 🔥 Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com/?user=HEMUsrimal&theme=vue-dark&hide_border=true)
+
+🌱 **Currently learning**:  
+  <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"> 
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker">
