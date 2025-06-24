@@ -31,7 +31,7 @@
 | <a href="https://github.com/HEMUsrimal"><img align="center" src="https://github-readme-stats.vercel.app/api?username=HEMUsrimal&show_icons=true&include_all_commits=true&theme=vue-dark&hide_border=true" alt="Your GitHub stats" /></a> | <a href="https://github.com/HEMUsrimal"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEMUsrimal&layout=compact&theme=vue-dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-### ⏳ GitHub Activity Snake
+
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=HEMUsrimal&theme=react-dark&hide_border=true&area=true)
 
 ---
