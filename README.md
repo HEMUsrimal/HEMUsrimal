@@ -19,6 +19,18 @@
 - ⚡ Fun fact: I love automating things & contributing to open-source  
 
 ---
+<div align="center">
+  <a href="mailto:udayangasrimaluni2002@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+  </a>
+  <a href="https://www.linkedin.com/in/udayanga-srimal/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+</div>
+---
 
 ## 🛠️ Languages & Tools
 
@@ -40,11 +52,6 @@
 
 ### 🏆 GitHub Achievements
 ![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=HEMUsrimal&theme=onedark&no-frame=true&margin-w=15)
-
----
-
-### 🔥 Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com/?user=HEMUsrimal&theme=vue-dark&hide_border=true)
 
 ---
 
