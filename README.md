@@ -44,6 +44,13 @@
 ### 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=HEMUsrimal&theme=vue-dark&hide_border=true)
 
+---
+### 🐍 GitHub Activity Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HEMUsrimal/HEMUsrimal/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
+
 🌱 **Currently learning**:  
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"> 
   <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=flat&logo=docker&logoColor=white" alt="Docker">
