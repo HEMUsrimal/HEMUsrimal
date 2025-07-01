@@ -45,11 +45,7 @@
 ![GitHub Streak](https://streak-stats.demolab.com/?user=HEMUsrimal&theme=vue-dark&hide_border=true)
 
 ---
-### 🐍 GitHub Activity Snake
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/HEMUsrimal/HEMUsrimal/output/github-contribution-grid-snake.svg" alt="snake gif" />
-</div>
 
 🌱 **Currently learning**:  
   <img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"> 
@@ -60,3 +56,10 @@
   <img src="https://img.shields.io/badge/Embedded%20Systems-%23005571.svg?style=flat&logo=arduino&logoColor=white" alt="Embedded Systems">
   <img src="https://img.shields.io/badge/Raspberry%20Pi-%23C51A4A.svg?style=flat&logo=raspberrypi&logoColor=white" alt="Raspberry Pi">
   <img src="https://img.shields.io/badge/C++%20IoT-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white" alt="C++ IoT">
+
+---
+### 🐍 GitHub Activity Snake
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/HEMUsrimal/HEMUsrimal/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</div>
