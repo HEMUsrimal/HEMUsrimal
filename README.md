@@ -1,5 +1,7 @@
-# 👋 Hey there
-**I am Udayanga Srimal,**  
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Udayanga!;" alt="Typing SVG" />
+</h1>
+  
 <div align="justify">
   an aspiring Web Developer with a deep love for web technologies. 
   I continuously expand my skills to craft exceptional digital experiences, exploring cutting-edge innovations to tackle real-world challenges creatively and efficiently. 
