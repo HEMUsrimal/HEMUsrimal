@@ -1,16 +1,16 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:00F5FF,100:FF00E4&height=220&section=header&text=UDAYANGA%20SRIMAL&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20IoT%20%26%20ML%20Explorer&descAlignY=58&descSize=18&descColor=FF00E4" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:00F5FF,100:FF00E4&height=220&section=header&text=UDAYANGA%20SRIMAL&fontSize=55&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%7C%20Full-Stack%20%C2%B7%20Mobile%20%C2%B7%20Automation%20%C2%B7%20IoT%2FML&descAlignY=58&descSize=16&descColor=FF00E4" />
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=24&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=650&height=60&lines=%3E+booting_engineer.exe...;%3E+bridging+hardware+%26+software;%3E+training+models+on+the+edge;%3E+welcome+to+my_terminal();" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=700&height=60&lines=%3E+booting_engineer.exe...;%3E+shipping+web+%2B+mobile+apps;%3E+automating+the+boring+parts;%3E+training+models+on+the+edge;%3E+welcome+to+my_terminal();" alt="Typing SVG" />
 
 <br/><br/>
 
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&logo=statuspage&logoColor=0D0221&labelColor=0D0221" />
 <img src="https://img.shields.io/badge/BUILD-SOFTWARE_ENGINEER-FF00E4?style=for-the-badge&logo=v&logoColor=0D0221&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/TARGET-IoT_%26_ML_ENGINEER-39FF14?style=for-the-badge&logo=target&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/TARGET-FULLSTACK_%26_AUTOMATION-39FF14?style=for-the-badge&logo=target&logoColor=0D0221&labelColor=0D0221" />
 
 </div>
 
@@ -30,19 +30,20 @@
 class Engineer:
     name: "Udayanga Srimal"
     role: "Software Engineering Undergraduate"
-    mission: "Bridging hardware + software through code"
-    
-    currently_building:
-        - "Full-stack web applications"
-        - "Modern DevOps pipelines"
-    
+    mission: "Build, ship, and automate across web + mobile"
+
+    pillars:
+        web:        "Full-stack web applications"
+        mobile:     "Cross-platform & native mobile apps"
+        automation: "CI/CD pipelines + workflow scripting"
+        iot_ml:     "IoT systems + machine learning models"
+
     currently_learning:
         - "AWS"
         - "Docker"
         - "Machine Learning (TensorFlow / PyTorch)"
         - "Embedded C++"
-    
-    end_goal: "IoT & Embedded Systems ML Engineer"
+
     fun_fact: "Automates anything that repeats twice."
 ```
 
@@ -54,6 +55,47 @@ class Engineer:
 </td>
 </tr>
 </table>
+
+<br/>
+
+<div align="center">
+
+### 🧩 `core_pillars.map()`
+
+<table>
+<tr>
+<td align="center" width="25%">
+
+**🌐 Full-Stack**
+
+Web apps end-to-end
+
+</td>
+<td align="center" width="25%">
+
+**📱 Mobile**
+
+RN · Flutter · Native
+
+</td>
+<td align="center" width="25%">
+
+**⚙️ Automation**
+
+CI/CD + scripting
+
+</td>
+<td align="center" width="25%">
+
+**📡 IoT / ML**
+
+Hardware meets models
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br/>
 
@@ -91,27 +133,45 @@ class Engineer:
 
 <br/><br/>
 
-**cloud · devops**
+**🌐 full-stack web**
 
-<img src="https://img.shields.io/badge/AWS-00F5FF?style=flat-square&logo=amazon-aws&logoColor=0D0221&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/Docker-00F5FF?style=flat-square&logo=docker&logoColor=0D0221&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/Kubernetes-00F5FF?style=flat-square&logo=kubernetes&logoColor=0D0221&labelColor=0D0221" />
-
-<br/><br/>
-
-**machine learning**
-
-<img src="https://img.shields.io/badge/Python%20ML-FF00E4?style=flat-square&logo=python&logoColor=0D0221&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/TensorFlow-FF00E4?style=flat-square&logo=tensorflow&logoColor=0D0221&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/PyTorch-FF00E4?style=flat-square&logo=pytorch&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Node.js-00F5FF?style=flat-square&logo=node.js&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Express-00F5FF?style=flat-square&logo=express&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/React-00F5FF?style=flat-square&logo=react&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/MongoDB-00F5FF?style=flat-square&logo=mongodb&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/PostgreSQL-00F5FF?style=flat-square&logo=postgresql&logoColor=0D0221&labelColor=0D0221" />
 
 <br/><br/>
 
-**iot · embedded**
+**📱 mobile development**
 
-<img src="https://img.shields.io/badge/Embedded%20Systems-39FF14?style=flat-square&logo=arduino&logoColor=0D0221&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/Raspberry%20Pi-39FF14?style=flat-square&logo=raspberrypi&logoColor=0D0221&labelColor=0D0221" />
-<img src="https://img.shields.io/badge/C++%20IoT-39FF14?style=flat-square&logo=cplusplus&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/React%20Native-FF00E4?style=flat-square&logo=react&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Flutter-FF00E4?style=flat-square&logo=flutter&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Dart-FF00E4?style=flat-square&logo=dart&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Swift-FF00E4?style=flat-square&logo=swift&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Kotlin-FF00E4?style=flat-square&logo=kotlin&logoColor=0D0221&labelColor=0D0221" />
+
+<br/><br/>
+
+**⚙️ automation · devops**
+
+<img src="https://img.shields.io/badge/GitHub%20Actions-39FF14?style=flat-square&logo=githubactions&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Jenkins-39FF14?style=flat-square&logo=jenkins&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Docker-39FF14?style=flat-square&logo=docker&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Kubernetes-39FF14?style=flat-square&logo=kubernetes&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/AWS-39FF14?style=flat-square&logo=amazon-aws&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Bash%20Scripting-39FF14?style=flat-square&logo=gnubash&logoColor=0D0221&labelColor=0D0221" />
+
+<br/><br/>
+
+**📡 iot · ml**
+
+<img src="https://img.shields.io/badge/Python%20ML-FFE600?style=flat-square&logo=python&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/TensorFlow-FFE600?style=flat-square&logo=tensorflow&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/PyTorch-FFE600?style=flat-square&logo=pytorch&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Embedded%20Systems-FFE600?style=flat-square&logo=arduino&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/Raspberry%20Pi-FFE600?style=flat-square&logo=raspberrypi&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/C++%20IoT-FFE600?style=flat-square&logo=cplusplus&logoColor=0D0221&labelColor=0D0221" />
 
 </div>
 
