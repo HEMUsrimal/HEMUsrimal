@@ -192,13 +192,6 @@ Hardware meets models
 <img src="https://github-readme-stats.vercel.app/api?username=HEMUsrimal&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F5FF&icon_color=FF00E4&text_color=c9d1d9&ring_color=39FF14" height="165"/>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HEMUsrimal&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D0221&title_color=00F5FF&text_color=c9d1d9" height="165"/>
 
-<br/>
-
-**🏆 achievements_unlocked**
-
-<img src="https://github-profile-trophy.vercel.app/?username=HEMUsrimal&theme=darkhub&no-frame=true&margin-w=12&row=1" />
-
-<br/>
 
 **📈 commit_frequency.log**
 
