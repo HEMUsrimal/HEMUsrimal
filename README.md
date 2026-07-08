@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/STATUS-ONLINE-00F5FF?style=for-the-badge&logo=statuspage&logoColor=0D0221&labelColor=0D1221" />
 <img src="https://img.shields.io/badge/BUILD-SOFTWARE_ENGINEER-FF00E4?style=for-the-badge&logo=v&logoColor=0D0221&labelColor=0D0221" />
 <img src="https://img.shields.io/badge/TARGET-FULLSTACK_%26_AUTOMATION-39FF14?style=for-the-badge&logo=target&logoColor=0D0221&labelColor=0D0221" />
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 </div>
 
 <br/>
@@ -22,7 +22,7 @@
 <br/>
 
 <table align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+
 <tr>
 <td width="55%" valign="top">
  
