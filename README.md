@@ -34,13 +34,6 @@
 
 </div>
 
-### 👾 `whoami`
-
-
-</td>
-
-<td width="45%" valign="top" align="center">
-
 ```yaml
 
 class Engineer:
@@ -81,7 +74,7 @@ class Engineer:
 
 ```
 
-</td>
+
 <td width="45%" valign="top" align="center">
 
 <img src="https://raw.githubusercontent.com/aaronyou6/aaronyou6/main/images/coding.gif" width="320" />
