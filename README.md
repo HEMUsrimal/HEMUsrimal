@@ -15,23 +15,20 @@
 </div>
 
 <br/>
-<div align="center">
 
-  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
-</div>
+
 
 
 <br/>
 
 <table align="center">
+  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 <tr>
 <td width="55%" valign="top">
-<div align="center">
-</div>
-### 👾 `whoami`
 
-```yaml
-class Engineer:
+<h3>👾 <code>whoami</code></h3>
+
+<pre><code>class Engineer:
     name: "Udayanga Srimal"
     role: "Software Engineering Undergraduate"
     mission: "Build, ship, and automate across web + mobile"
@@ -48,8 +45,7 @@ class Engineer:
         - "Machine Learning (TensorFlow / PyTorch)"
         - "Embedded C++"
 
-    fun_fact: "Automates anything that repeats twice."
-```
+    fun_fact: "Automates anything that repeats twice."</code></pre>
 
 </td>
 <td width="45%" valign="top" align="center">
@@ -59,6 +55,7 @@ class Engineer:
 </td>
 </tr>
 </table>
+</td>
 
 <br/>
 
