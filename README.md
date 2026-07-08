@@ -28,8 +28,6 @@
 
 <h3>👾 <code>whoami</code></h3>
 
-<td width="55%" valign="top">
-
 <div align="center">
 
 </div>
@@ -78,8 +76,6 @@ class Engineer:
 <td width="45%" valign="top" align="center">
 
 <img src="https://raw.githubusercontent.com/aaronyou6/aaronyou6/main/images/coding.gif" width="320" />
-
-</td>
 </tr>
 </table>
 </td>
