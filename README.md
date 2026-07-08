@@ -22,10 +22,10 @@
 <br/>
 
 <table align="center">
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
 <tr>
 <td width="55%" valign="top">
-  <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
+ 
 <h3>👾 <code>whoami</code></h3>
 
 <pre><code>class Engineer:
