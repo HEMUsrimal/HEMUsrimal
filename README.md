@@ -15,8 +15,8 @@
 </div>
 
 <br/>
-<div>
-  <table align="center">
+<div align="center">
+
   <img width="100%" src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" />
 </div>
 
