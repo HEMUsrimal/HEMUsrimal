@@ -28,24 +28,58 @@
 
 <h3>👾 <code>whoami</code></h3>
 
-<pre><code>class Engineer:
+<td width="55%" valign="top">
+
+<div align="center">
+
+</div>
+
+### 👾 `whoami`
+
+
+</td>
+
+<td width="45%" valign="top" align="center">
+
+```yaml
+
+class Engineer:
+
     name: "Udayanga Srimal"
+
     role: "Software Engineering Undergraduate"
+
     mission: "Build, ship, and automate across web + mobile"
 
+
+
     pillars:
+
         web:        "Full-stack web applications"
+
         mobile:     "Cross-platform & native mobile apps"
+
         automation: "CI/CD pipelines + workflow scripting"
+
         iot_ml:     "IoT systems + machine learning models"
 
+
+
     currently_learning:
+
         - "AWS"
+
         - "Docker"
+
         - "Machine Learning (TensorFlow / PyTorch)"
+
         - "Embedded C++"
 
-    fun_fact: "Automates anything that repeats twice."</code></pre>
+
+
+    fun_fact: "Automates anything that repeats twice."
+
+```
 
 </td>
 <td width="45%" valign="top" align="center">
