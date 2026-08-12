@@ -152,11 +152,11 @@ Hardware meets models
 <br/>
 
 **core languages**
-
 <img src="https://skillicons.dev/icons?i=js,ts,py,java,nodejs,react,docker,aws,firebase,linux,bash,git,github,vscode&theme=dark&perline=7" />
 <br/>
 <img src="https://img.shields.io/badge/n8n-FF6D5A?style=for-the-badge&logo=n8n&logoColor=white&labelColor=20232a" />
-<img src="https://img.shields.io/badge/NetLogo-FFE600?style=for-the-badge&logo=netlogo&logoColor=black&labelColor=20232a" />
+<img src="https://img.shields.io/badge/NetLogo-FFE600?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3inone&logoColor=black&labelColor=20232a" />
+
 <br/><br/>
 
 **🌐 full-stack web**
