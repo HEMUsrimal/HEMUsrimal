@@ -156,6 +156,7 @@ Hardware meets models
 <img src="https://skillicons.dev/icons?i=js,ts,py,java,nodejs,react,docker,aws,firebase,linux,bash,git,github,vscode&theme=dark&perline=7" />
 <br/>
 <img src="https://img.shields.io/badge/n8n-FF6D5A?style=flat-square&logo=n8n&logoColor=0D0221&labelColor=0D0221" />
+<img src="https://img.shields.io/badge/NetLogo-FFE600?style=flat-square&logo=netlogo&logoColor=0D0221&labelColor=0D0221" />
 
 <br/><br/>
 
